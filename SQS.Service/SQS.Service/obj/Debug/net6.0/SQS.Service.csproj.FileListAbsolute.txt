@@ -1,0 +1,12 @@
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\bin\Debug\net6.0\SQS.Service.deps.json
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\bin\Debug\net6.0\SQS.Service.dll
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\bin\Debug\net6.0\SQS.Service.pdb
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.csproj.AssemblyReference.cache
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.AssemblyInfoInputs.cache
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.AssemblyInfo.cs
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.csproj.CoreCompileInputs.cache
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.dll
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\refint\SQS.Service.dll
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\SQS.Service.pdb
+C:\SRIKANTH\SQS\SQS.Service\SQS.Service\obj\Debug\net6.0\ref\SQS.Service.dll

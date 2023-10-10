@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SQS.Service/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SQS": "3.7.200.54",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "SQS.Service.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.204": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.204.0"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.7.200.54": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.204"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.200.54"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SQS.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.204": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lr9Ttgl7sP+8JKlAXsusDfVXOGWRGB7y14tN7zUuRP1IeXacIogFxOsfDTbecuvut/LnwYOj8J3s0h7R+oHiDw==",
+      "path": "awssdk.core/3.7.204",
+      "hashPath": "awssdk.core.3.7.204.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.7.200.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CQfFsT1u10epyFXtvEpm2UDKtGV6dgq18MW3iVDH04oErkqa3r/bYDOxRvcfE//sww97i8LJSB7Ge636a6UtTg==",
+      "path": "awssdk.sqs/3.7.200.54",
+      "hashPath": "awssdk.sqs.3.7.200.54.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    }
+  }
+}

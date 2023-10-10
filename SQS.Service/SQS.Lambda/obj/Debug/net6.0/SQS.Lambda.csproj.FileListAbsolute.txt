@@ -1,0 +1,12 @@
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\bin\Debug\net6.0\SQS.Lambda.deps.json
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\bin\Debug\net6.0\SQS.Lambda.dll
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\bin\Debug\net6.0\SQS.Lambda.pdb
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.csproj.AssemblyReference.cache
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.AssemblyInfoInputs.cache
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.AssemblyInfo.cs
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.csproj.CoreCompileInputs.cache
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.dll
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\refint\SQS.Lambda.dll
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\SQS.Lambda.pdb
+C:\SRIKANTH\SQS\SQS.Service\SQS.Lambda\obj\Debug\net6.0\ref\SQS.Lambda.dll
